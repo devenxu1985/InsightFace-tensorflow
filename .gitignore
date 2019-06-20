@@ -1,0 +1,10 @@
+.idea
+
+# thumbnails
+._*
+__*__
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
